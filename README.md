@@ -2,7 +2,9 @@
 IPEX company wide Eslint rules
 
 ## Install
-Just copy and rename .eslintrc.* file as .eslintrc into your project folder
+* Copy and rename .eslintrc.* file as .eslintrc into your project folder
+* Fill globals - depends on project
+* Set parser if needed (default: babel-eslint)
 
 ### .eslintrc.base
 Basic JavaScript rules
@@ -12,4 +14,5 @@ Extended rules for React & JSX
 
 ### package.json
 depdendencies are required
+
 devDependencies are for React & JSX
