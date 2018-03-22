@@ -7,12 +7,11 @@ IPEX company wide Eslint rules
 * Set parser if needed (default: babel-eslint)
 
 ### .eslintrc.base
-Basic JavaScript rules
+* Basic JavaScript rules
 
 ### .eslintrc.react
-Extended rules for React & JSX
+* Extended rules for React & JSX
 
 ### package.json
-depdendencies are required
-
-devDependencies are for React & JSX
+* depdendencies are required
+* devDependencies are for React & JSX
