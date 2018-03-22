@@ -30,7 +30,7 @@
       "declaration": "parens-new-line",
       "assignment": "parens-new-line",
       "return": "parens-new-line",
-      "arrow": "parens-new-line",
+//    "arrow": "parens-new-line", // TODO: Disabled: crashes eslint
       "condition": "parens-new-line",
       "logical": "parens-new-line",
       "prop": "parens-new-line"
