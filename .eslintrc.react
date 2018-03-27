@@ -17,7 +17,7 @@
   "globals": {},
   "rules": {
     "indent": ["warn", 2, {"SwitchCase": 1}],
-    "jsx-quotes": [1, "prefer-double"],
+    "jsx-quotes": [2, "prefer-double"],
     "no-unused-vars": 1,
     "semi": [2, "never"],
     "space-before-function-paren": [2, "never"],
